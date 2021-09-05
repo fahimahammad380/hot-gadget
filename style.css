@@ -1,0 +1,46 @@
+.nav-link{
+    margin-left: 10px;
+}
+.logo{
+    height: 70px;
+}
+.best-products{
+    height: 400px;
+}
+.card-img-top{
+    /* padding: 50px; */
+    width: 50%;
+    margin: 50px 100px;
+}
+.card{
+    border: none;
+    box-shadow: 1px 1px 5px rgb(238, 178, 172);
+    border-radius: 10px;
+}
+.card-text{
+    color: slategrey;
+}
+.btn-dark{
+    margin-top: 0px;
+}
+h5{
+    margin: 20px;
+}
+h6{
+    color: rgb(4, 223, 113);
+}
+.row{
+    margin-bottom: 100px;
+}
+.cat{
+    /* height: 100px;
+    width: 100px; */
+    padding: 50px;
+    width: 30%;
+    border-radius: 10px;
+    box-shadow: 2px 2px 10px rgb(169, 167, 172);
+}
+
+.cat{
+    margin: 10px;
+}
